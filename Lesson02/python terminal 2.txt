@@ -1,0 +1,9 @@
+Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson02> & C:/Users/Apoorva/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/Apoorva/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson02/welcome.py"
+
+*********************
+*                   *
+*     WELCOME!      *
+*                   *
+*********************
+
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson02>

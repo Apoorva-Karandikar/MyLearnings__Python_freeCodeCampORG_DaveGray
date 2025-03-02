@@ -1,0 +1,35 @@
+
+Apoorva@Apoorva-DESKTOP-T47888B MINGW64 ~/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson 1
+$ py -3 --version
+Python 3.13.2
+
+Apoorva@Apoorva-DESKTOP-T47888B MINGW64 ~/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson 1
+$ py
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 4+4
+8   
+>>> name = 'Apoorva'
+>>> name
+'Apoorva'
+>>> name2 = Apoorva
+Traceback (most recent call last):
+  File "<python-input-3>", line 1, in <module>
+    name2 = Apoorva
+            ^^^^^^^
+NameError: name 'Apoorva' is not defined
+>>> name2 = "Apoorva"
+>>> name2
+'Apoorva'
+>>> quit()
+
+Apoorva@Apoorva-DESKTOP-T47888B MINGW64 ~/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson 1
+$ Apoorva@Apoorva-DESKTOP-T47888B MINGW64 ~/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson 1
+bash: Apoorva@Apoorva-DESKTOP-T47888B: command not found
+
+Apoorva@Apoorva-DESKTOP-T47888B MINGW64 ~/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson 1
+$ $
+bash: $: command not found
+
+Apoorva@Apoorva-DESKTOP-T47888B MINGW64 ~/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson 1
+$

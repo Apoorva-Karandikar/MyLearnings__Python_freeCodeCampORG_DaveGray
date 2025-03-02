@@ -1,0 +1,120 @@
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson06> & C:/Users/Apoorva/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/Apoorva/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson06/lists.py"
+
+True
+True
+False
+
+Apoorva
+Bhaskar
+Madakini
+
+0
+['Apoorva', 'Madakini']
+['Apoorva', 'Madakini', 'Bhaskar']    
+['Apoorva', 'Madakini']
+
+['Apoorva', 'Madakini']
+['Apoorva', 'Madakini']
+[]
+[]
+
+3
+
+ ~~~~  Appending to end of list  ~~~~ 
+
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala']
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra']
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra', 'N', 'a', 'i', 'n', 'a']
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra', 'N', 'a', 'i', 'n', 'a', 'Uma', 'Shivaram']
+
+
+ ~~~~  Concatinating lists ~~~~
+
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra', 'N', 'a', 'i', 'n', 'a', 'Uma', 'Shivaram', 'Apoorva', 48, True]
+
+
+ ~~~~ Inserting / Updating at a specific index ~~~~
+
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra', 'Aniruddha', 'N', 'a', 'i', 'n', 'a', 'Uma', 'Shivaram', 'Apoorva', 48, True]
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra', 'Aniruddha', 'Jane', 'John', 'N', 'a', 'i', 'n', 'a', 'Uma', 'Shivaram', 'Apoorva', 48, True] 
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra', 'Aniruddha', 'Jenny', 'Johnny', 'N', 'a', 'i', 'n', 'a', 'Uma', 'Shivaram', 'Apoorva', 48, True]
+
+
+ ~~~~  Deleting from lists ~~~~
+
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra', 'Aniruddha', 'Jenny', 'N', 'a', 'i', 'n', 'a', 'Uma', 'Shivaram', 'Apoorva', 48, True]        
+True
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra', 'Aniruddha', 'Jenny', 'N', 'a', 'i', 'n', 'a', 'Uma', 'Shivaram', 'Apoorva', 48]
+['Apoorva', 'Madakini', 'Bhaskar', 'Premala', 'Harishchandra', 'Aniruddha', 'Jenny', 'N', 'a', 'i', 'n', 'a', 'Uma', 'Shivaram', 'Apoorva']
+
+['Apoorva', 48, True]
+[]
+
+
+ ~~~~  Sorting lists   ~~~~
+
+
+['Aniruddha', 'Apoorva', 'Apoorva', 'Bhaskar', 'Harishchandra', 'Jenny', 'Madakini', 'N', 'Premala', 'Shivaram', 'Uma', 'a', 'a', 'i', 'n']
+['a', 'a', 'Aniruddha', 'Apoorva', 'Apoorva', 'Bhaskar', 'Harishchandra', 'i', 'Jenny', 'Madakini', 'N', 'n', 'Premala', 'Shivaram', 'Uma']
+
+[48, 4, 84, 8, 44]
+[44, 8, 84, 4, 48]
+
+[84, 48, 44, 8, 4]
+[44, 8, 84, 4, 48]
+
+
+ ~~~~  Copying lists   ~~~~
+
+[44, 8, 84, 4, 48]
+[44, 8, 84, 4, 48]
+[44, 8, 84, 4, 48]
+None
+[4, 8, 44, 48, 84]
+[44, 8, 84, 4, 48]
+
+
+ ~~~~  Checking the data type of a list   ~~~~
+
+<class 'list'>
+[1, 'Single quotes', False]
+<class 'list'>
+[2, 'Double quotes', True]
+<class 'list'>
+
+
+
+ !~~~! Tuples  !~~~!
+
+('Apoorva', 84, False)
+<class 'tuple'>
+(444, 888, 444, 'Naina', 444, 484, 848, 'Naina')
+<class 'tuple'>
+
+
+ ~~~~  Modifying tuples    ~~~~
+
+['Apoorva', 84, False, 'Naina']
+<class 'list'>
+('Apoorva', 84, False, 'Naina')
+<class 'tuple'>
+('Apoorva', 84, False)
+
+
+ ~~~~  Unpacking tuples    ~~~~
+
+(444, 888, 444, 'Naina', 444, 484, 848, 'Naina')
+444
+<class 'int'>
+[888, 444, 'Naina', 444, 484, 848]
+<class 'list'>
+Naina
+<class 'str'>
+
+
+ ~~~~  Functions on lists and tuples   ~~~~
+
+3
+2
+
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson06> 

@@ -1,0 +1,52 @@
+
+Apoorva@Apoorva-DESKTOP-T47888B MINGW64 ~/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson02
+$ py
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> name = 'Apoorva'
+>>> name
+'Apoorva'
+>>> name0001 = 'Apoorva'
+>>> name0001 = 'Apoorva 0001'
+>>> _name = '_ Apoorva'
+>>> name! = 'Apoorva !'
+  File "<python-input-5>", line 1
+    name! = 'Apoorva !'
+        ^
+SyntaxError: invalid syntax
+>>> name-first = 'Apoorva -'
+  File "<python-input-6>", line 1
+    name-first = 'Apoorva -'
+    ^^^^^^^^^^
+SyntaxError: cannot assign to expression here. Maybe you meant '==' instead of '='?
+>>> 0001name = '0001 Apoorva'
+  File "<python-input-7>", line 1
+    0001name = '0001 Apoorva'
+    ^^^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+>>> 1name = '1 Apoorva'
+  File "<python-input-8>", line 1
+    1name = '1 Apoorva'
+    ^
+SyntaxError: invalid decimal literal
+>>> if = 'if string'
+  File "<python-input-9>", line 1
+    if = 'if string'
+       ^
+SyntaxError: invalid syntax
+>>> for = 'keyword'
+  File "<python-input-10>", line 1
+    for = 'keyword'
+        ^
+SyntaxError: invalid syntax
+>>> 4+4
+8
+>>> "Expression"
+'Expression'
+>>> myname = 'Apoorva'
+>>> myname
+'Apoorva'
+>>> quit()
+
+Apoorva@Apoorva-DESKTOP-T47888B MINGW64 ~/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson02
+$

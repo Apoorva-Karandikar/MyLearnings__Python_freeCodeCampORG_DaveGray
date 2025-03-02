@@ -1,0 +1,56 @@
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson03> py
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 40 == 42
+False
+>>> 40 == 40
+True
+>>> 40 != 40
+False
+>>> 42 != 40
+True
+>>> 20 > 10
+True
+>>> 20 < 10
+False
+>>> 20 >= 10
+True
+>>> 20 <= 10
+False
+>>> 20 > = 20
+  File "<python-input-8>", line 1
+    20 > = 20
+         ^
+SyntaxError: invalid syntax
+>>> 20 >= 20
+True
+>>> x = True
+>>> y = False
+>>> z = True
+>>> not x
+False
+>>> not y
+True
+>>> x AND y
+  File "<python-input-15>", line 1
+    x AND y
+      ^^^
+SyntaxError: invalid syntax
+>>> x and y
+False
+>>> y and x
+False
+>>> x or y
+True
+>>> y or x
+True
+>>> x and z
+True
+>>> z and y
+False
+>>> y or z
+True
+>>> z or y
+True
+>>> quit ()
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson03> 

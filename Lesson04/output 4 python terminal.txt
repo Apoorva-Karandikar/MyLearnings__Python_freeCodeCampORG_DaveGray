@@ -1,0 +1,165 @@
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson04> & C:/Users/Apoorva/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/Apoorva/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson04/data_types.py"
+
+***  String data types   ***
+
+
+~~~~  Literal Assignment (eg : Name)  ~~~~
+Apoorva
+<class 'str'>
+True
+True
+
+
+~~~~ Constructor Function (eg : Paratha) ~~~~
+Aloo
+<class 'str'>
+True
+True
+
+
+~~~~ Concatination   ~~~~
+Apoorva DK
+Apoorva DK !
+
+
+~~~~ Casting a number to a string    ~~~~
+<class 'str'>
+2000
+I like folk music from the 2000s.
+
+
+~~~~ Multiple lines  ~~~~
+
+
+Hey! How are you?
+    Just checking in...
+            All good?
+
+
+
+
+~~~~ Escaping special characters ~~~~
+Hey!
+ I'm back to work.
+ By the way,     where's this at\located?
+
+
+~~~~ String methods  ~~~~
+Apoorva
+apoorva
+APOORVA
+Apoorva
+
+
+
+Hey! How Are You?
+    Just Checking In...
+            All Good?
+
+
+
+
+Hey! How are you?
+    Just checking in...
+            All ok?
+
+
+
+
+Hey! How are you?
+    Just checking in...
+            All good?
+
+
+
+78
+84
+95
+
+74
+82
+87
+
+
+~~~~ Build a menu    ~~~~
+
+--------- MENU ---------
+
+Filter coffee ______________  Rs. 20
+Wada pav ___________________  Rs. 15
+Rava cake __________________  Rs. 30
+
+
+~~~~ String index values ~~~~
+Apoorva
+A
+a
+poorv
+poorva
+
+
+~~~~ Some methods return Boolean data    ~~~~
+True
+False
+False
+True
+
+
+***  Boolean data type   ***
+False
+<class 'bool'>
+True
+True
+
+
+***  Numeric data types  ***
+~~~~ Integer ~~~~
+80
+<class 'int'>
+40
+True
+
+~~~~ Float   ~~~~
+9.04
+<class 'float'>
+8.84
+True
+
+~~~~ Complex type    ~~~~
+(4+8j)
+<class 'complex'>
+True
+4.0
+8.0
+
+
+~~~~ Built-in functions for numbers  ~~~~
+9.04
+9.04
+-9.04
+9.04
+9
+9.0
+
+
+~~~~ Built-in math module    ~~~~
+3.141592653589793
+8.0
+9.04
+10
+9
+
+
+~~~~ Casting a string to a number    ~~~~
+48007
+<class 'str'>
+48007
+<class 'int'>
+
+
+~~~~ Error casting improper string to a number    ~~~~
+Traceback (most recent call last):
+  File "c:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson04\data_types.py", line 228, in <module>
+    zip_value_err = int("Bengaluru")
+ValueError: invalid literal for int() with base 10: 'Bengaluru'
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson04>

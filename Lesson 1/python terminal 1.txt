@@ -1,0 +1,7 @@
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson 1> & C:/Users/Apoorva/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/Apoorva/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson 1/hello.py"
+Hello World!
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson 1> py hello.py
+Hello World!
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson 1> & C:/Users/Apoorva/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/Apoorva/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson 1/hello.py"
+Hello World!
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson 1> 

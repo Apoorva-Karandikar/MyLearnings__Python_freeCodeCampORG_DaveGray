@@ -1,0 +1,24 @@
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson03> & C:/Users/Apoorva/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/Apoorva/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson03/meaning.py"
+
+Not today
+Right on!
+
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson03> py meaning.py
+
+Not today
+Right on!
+
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson03> & C:/Users/Apoorva/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/Apoorva/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson03/meaning.py"
+
+Ternary Not today
+Ternary Right on!
+
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson03> py meaning.py
+
+Not today
+Right on!
+
+Ternary Not today
+Ternary Right on!
+
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson03> 

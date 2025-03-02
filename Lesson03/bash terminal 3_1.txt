@@ -1,0 +1,76 @@
+
+Apoorva@Apoorva-DESKTOP-T47888B MINGW64 ~/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson03
+$ py
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> name = 'Apoorva'
+>>> name
+'Apoorva'
+>>> meaning = 48
+>>> meaning
+48   
+>>> 4 + 4
+8   
+>>> 8-4
+4
+>>> 4*4
+16
+>>> 48/7
+6.857142857142857
+>>> 48 / 7
+6.857142857142857
+>>> 24 / 5
+4.8
+>>> 24 // 5
+4
+>>> round (24/5)
+5
+>>> 24 % 5
+4
+>>> 48 % 7
+6
+>>> 48 // 7
+6
+>>> round (48/7)
+7
+>>> 40 % 7
+5
+>>> 40 // 7
+5
+>>> 44 // 7
+6
+>>> 44 % 7
+2
+>>> round (40/7)
+6
+>>> round (44/7)
+6
+>>> round (48/7)
+7
+>>> 8 ** 4
+4096
+>>> 4 ** 2
+16
+>>> meaning = 84
+>>> meaning += 7
+>>> meaning
+91
+>>> meaning -= 7
+>>> meaning
+84
+>>> meaning *= 10
+>>> meaning
+840
+>>> meaning /= 10
+>>> meaning
+84.0
+>>> round (meaning)
+84
+>>> meaning
+84.0
+>>> meaning = round (meaning)
+>>> meaning
+84
+>>> "Apoorva " + "DK"
+'Apoorva DK'
+>>> 

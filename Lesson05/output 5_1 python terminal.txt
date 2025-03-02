@@ -1,0 +1,49 @@
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson05> & C:/Users/Apoorva/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/Apoorva/Documents/My Learnings/Python_freeCodeCampORG_DaveGray/Lesson05/rps.py"      
+
+***  New Game    ***
+
+Enter... 
+ 1 for Rock,        
+ 2 for Paper, or    
+ 3 for Scissors:    
+
+1
+
+You chose : 1       
+Python chose : 1    
+
+XXX  Tie game    XXX
+
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson05> py rps.py
+
+***  New Game    ***
+
+Enter... 
+ 1 for Rock,        
+ 2 for Paper, or    
+ 3 for Scissors:    
+
+2
+
+You chose : 2   
+Python chose : 3
+
+Python wins!    
+
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson05> py rps.py
+
+***  New Game    ***
+
+Enter...
+ 1 for Rock,
+ 2 for Paper, or
+ 3 for Scissors:
+
+3
+
+You chose : 3
+Python chose : 2
+
+!!!  You win !!!
+
+PS C:\Users\Apoorva\Documents\My Learnings\Python_freeCodeCampORG_DaveGray\Lesson05>
