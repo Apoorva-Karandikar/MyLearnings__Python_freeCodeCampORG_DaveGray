@@ -1,0 +1,5 @@
+white space indentation error not auto corrected on save 
+Extensions - Python - Not getting enabled globally 
+.py file --> right click --> Format Document option not available 
+@ 27.39 - 28.40 
+manual updating settings.json also not working
